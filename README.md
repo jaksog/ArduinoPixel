@@ -3,7 +3,7 @@ ArduinoPixel
 
 ArduinoPixel is a distributed system for operating a LED strip. On one side, there is an **Arduino sketch** that implements a **web server** and offers an **API** for controlling a [NeoPixel LED strip](http://www.adafruit.com/products/1138). On the other side, there is the `ArduinoPixel` **Android app** that connects to the Arduino web server and sends **requests** to control the LED strip.
 
-![promo](http://i76.photobucket.com/albums/j16/paign10/promo_zpsfnckempv.png)
+![promo](assets/promo.png)
 <br>
 
 The **Arduino sketch** is almost ready for use, but you'll need to **tweak** a few parameters first. Once you update the network and strip parameters, you are free to **upload** the code straight to your board. Any Arduino compatible board with an Ethernet or Wifi connection should work fine.
